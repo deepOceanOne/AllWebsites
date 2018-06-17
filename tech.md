@@ -14,3 +14,11 @@ https://blog.csdn.net/maitiandaozi/article/details/51678664 -- apt卸载软件
 https://www.linuxidc.com/Linux/2016-01/127345.htm -- linux查看端口占用
 https://ravvar.us -- RAVVAR VR平台
 https://www.wilddog.com -- 野狗通信云
+https://prophet.4paradigm.com/\#/prophets -- 第四范式-数据分析处理
+https://www.multcloud.com/\#home -- 混合云
+https://ionicframework.com/docs/intro/installation/ -- app开发框架
+https://blog.csdn.net/linux_player_c/article/details/53125600 -- 编写dockerfile
+https://developer.qiniu.com/pili/kb/2639/ffmpeg-use-skills -- ffmpeg使用技能
+https://www.integromat.com/en/ -- 类似iffft
+https://blog.csdn.net/u010246789/article/details/53978079 -- Docker命令交互
+http://python.jobbole.com/84003/ -- Flask总结

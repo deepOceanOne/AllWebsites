@@ -21,3 +21,29 @@ https://emby.media/linux-server.html -- 视频服务器
 https://www.jianshu.com/p/03f8022453a5 -- 添加自动下载
 https://segmentfault.com/a/1190000008656825 -- 搭建图床服务
 https://cn.office-converter.com -- 免费在线文件转换
+https://phantomjscloud.com -- 无头浏览器
+http://toolinbox.net/Klib/Klib.html -- kindle笔记
+https://bookfere.com/post/287.html -- Gitbook使用
+http://lebook.me -- 乐书
+https://bookfere.com/post/73.html -- Sigil电子书工具
+http://www.cappuccino-project.org/\#features -- web-development
+https://emmet.io -- emmet develop工具
+https://www.apowersoft.cn/free-online-video-converter -- 音视频转换工具
+https://smallpdf.com -- pdf处理工具
+https://www-prod2.clemsafe.net// -- email-server
+https://rancher.com/quick-start/ -- vps主机管理
+http://www.exim.org/mirrors.html -- exim email
+http://next.36kr.com/posts/collections/1\?show_wechat_share_tip\=true -- 原型工具
+https://zh.forvo.com -- 发音指南
+https://www.iflyrec.com/html/addMachineOrder.html -- 讯飞听见 录音转写
+https://www.zhihu.com/question/20124290 -- 录音转文字
+https://www.zhihu.com/question/20124290 -- 改图宝
+https://www.wallabag.org/en -- 稍后阅读应用
+https://dashboard.appbase.io/ -- 在线elas全文搜索
+http://bigjpg.com/ -- 智能图片放大
+https://apizza.net/projects -- api管理工具
+https://github.com/appbaseio/dejaVu -- docker-elas全文搜索管理界面工具
+https://github.com/hakimel/reveal.js -- ppt工具
+http://pdftotext.com/zh/ -- pdf转换工具
+http://app.xunjiepdf.com/eb2txt -- 电子书转换器
+http://www.atool.org/file_hash.php -- 计算文件hash
