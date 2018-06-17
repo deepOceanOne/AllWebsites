@@ -47,3 +47,7 @@ https://github.com/hakimel/reveal.js -- ppt工具
 http://pdftotext.com/zh/ -- pdf转换工具
 http://app.xunjiepdf.com/eb2txt -- 电子书转换器
 http://www.atool.org/file_hash.php -- 计算文件hash
+https://www.pythonanywhere.com -- python在线运行
+http://www.uupoop.com -- 在线ps工具
+https://cn.office-converter.com/Convert-to-MOBI\? -- 文件转换在线
+http://www.corpuscloud.cn/apps/corpuscloud/statistics/prepare -- 语料云

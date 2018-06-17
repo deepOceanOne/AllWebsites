@@ -22,3 +22,10 @@ https://developer.qiniu.com/pili/kb/2639/ffmpeg-use-skills -- ffmpeg使用技能
 https://www.integromat.com/en/ -- 类似iffft
 https://blog.csdn.net/u010246789/article/details/53978079 -- Docker命令交互
 http://python.jobbole.com/84003/ -- Flask总结
+https://chatfuel.com -- 聊天机器人
+http://chatterbot.readthedocs.io/en/stable/ -- 聊天机器人
+https://gitee.com/thinkcmf/ThinkCMF --门户框架
+https://www.cnblogs.com/LittleSix/p/6053549.html -- npm私服搭建
+http://www.mono-project.com -- .NET框架
+https://zhuanlan.zhihu.com/p/25191863\?utm_source\=tuicool\&utm_medium\=referral -- 服务器框架
+https://hubot.github.com/docs/ -- hubot机器人
