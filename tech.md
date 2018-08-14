@@ -29,3 +29,4 @@ https://www.cnblogs.com/LittleSix/p/6053549.html -- npm私服搭建
 http://www.mono-project.com -- .NET框架
 https://zhuanlan.zhihu.com/p/25191863\?utm_source\=tuicool\&utm_medium\=referral -- 服务器框架
 https://hubot.github.com/docs/ -- hubot机器人
+https://www.cnblogs.com/jsonhc/p/7767669.html -- dockerfile使用方法
