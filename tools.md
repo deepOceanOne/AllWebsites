@@ -51,3 +51,6 @@ https://www.pythonanywhere.com -- python在线运行
 http://www.uupoop.com -- 在线ps工具
 https://cn.office-converter.com/Convert-to-MOBI\? -- 文件转换在线
 http://www.corpuscloud.cn/apps/corpuscloud/statistics/prepare -- 语料云
+http://phantomjs.org/api/webpage/method/send-event.html -- 无头浏览器
+http://www.xunsearch.com/site/demo -- 免费中文全文搜索
+http://open.mapbar.com/API_internet.jsp -- 图吧地图
