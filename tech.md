@@ -30,3 +30,4 @@ http://www.mono-project.com -- .NET框架
 https://zhuanlan.zhihu.com/p/25191863\?utm_source\=tuicool\&utm_medium\=referral -- 服务器框架
 https://hubot.github.com/docs/ -- hubot机器人
 https://www.cnblogs.com/jsonhc/p/7767669.html -- dockerfile使用方法
+https://hsk.oray.com/news/3696.html -- 花生壳
