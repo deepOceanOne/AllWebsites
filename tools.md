@@ -56,3 +56,8 @@ http://www.xunsearch.com/site/demo -- 免费中文全文搜索
 http://open.mapbar.com/API_internet.jsp -- 图吧地图
 http://222.190.96.182:8085/uniform/busi/chaxun/select.html -- 信用代码查询
 https://www.jianshu.com/p/00d02921b63f -- rss工具
+https://lnmp.org/install.html -- lnmp一键安装包
+http://www.uupoop.com -- 在线ps
+http://cut.ailuoku6.top -- 图片压缩
+http://bigjpg.com -- 图片放大
+http://waifu2x.udp.jp -- 动漫图片放大

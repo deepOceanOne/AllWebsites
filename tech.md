@@ -31,3 +31,6 @@ https://zhuanlan.zhihu.com/p/25191863\?utm_source\=tuicool\&utm_medium\=referral
 https://hubot.github.com/docs/ -- hubot机器人
 https://www.cnblogs.com/jsonhc/p/7767669.html -- dockerfile使用方法
 https://hsk.oray.com/news/3696.html -- 花生壳
+https://cloud.baidu.com/product/face -- 百度人脸识别
+https://blog.csdn.net/qq_31666147/article/details/53084341 -- linux解压rar
+https://github.com/Google1234/Information_retrieva_Projectl-/blob/master/crawl/spiders/netease_spider.py -- 爬虫例子代码
