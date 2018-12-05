@@ -61,3 +61,8 @@ http://www.uupoop.com -- 在线ps
 http://cut.ailuoku6.top -- 图片压缩
 http://bigjpg.com -- 图片放大
 http://waifu2x.udp.jp -- 动漫图片放大
+https://wetransfer.com -- wetransfer 临时链接发到邮箱中
+https://volafile.org -- 一键建立专属分享房间
+https://imgchr.com -- 图床
+https://cowtransfer.com -- 奶牛快传 文件传输
+https://streamable.com -- 文件传输

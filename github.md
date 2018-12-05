@@ -8,3 +8,4 @@ https://github.com/ry/tensorflow-vgg16 -- tensor
 https://github.com/machrisaa/stylenet -- tensor-style
 https://github.com/matthewearl/deep-anpr -- plate recognition
 https://github.com/zengxs/TianyaSpider -- 天涯爬虫
+https://github.com/Tencent/omi -- Web组件化
