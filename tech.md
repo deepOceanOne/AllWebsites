@@ -35,3 +35,4 @@ https://cloud.baidu.com/product/face -- 百度人脸识别
 https://blog.csdn.net/qq_31666147/article/details/53084341 -- linux解压rar
 https://github.com/Google1234/Information_retrieva_Projectl-/blob/master/crawl/spiders/netease_spider.py -- 爬虫例子代码
 http://www.bayescafe.com/php/getting-started-with-phpunit.html -- 部署phpunit
+https://cloud.chatbot.cn -- 奇智机器人
